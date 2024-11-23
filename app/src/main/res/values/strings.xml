@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculadoraSalario</string>
+    <string name="edad">Edad</string>
+    <string-array name="NumeroPagasArray">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="profesionArray">
+        <item>Licenciados</item>
+        <item>Ingenieros técnicos, peritos y ayudantes</item>
+        <item>Autónomos</item>
+    </string-array>
+</resources>
